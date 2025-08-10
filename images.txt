@@ -1,2 +1,2 @@
-#支持指定架构
+# 测试支持指定架构
 --platform=linux/arm64 nginx:alpine
