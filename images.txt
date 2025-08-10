@@ -1,3 +1,2 @@
-nginx:alpine
 # 测试支持指定架构
---platform=linux/arm64 nginx:alpinev2
+--platform=linux/arm64 aarch64/nginx:alpine
