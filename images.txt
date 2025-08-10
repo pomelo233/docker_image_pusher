@@ -1,2 +1,2 @@
 # 测试支持指定架构
---platform=linux/arm64 aarch64/nginx:alpine
+--platform=linux/arm64 nginx:stable
